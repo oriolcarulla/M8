@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M8</string>
+    <string name="edit_message">Valor predeterminat</string>
+    <string name="button_send">Envia</string>
+</resources>
