@@ -1,25 +1,21 @@
 package com.oriol.m8
 
-import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
-import android.widget.EditText
-import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
 import kotlin.random.Random
 
-class MainActivity : AppCompatActivity() {
+class Part1 : AppCompatActivity() {
     private var contador = 0;
     private var textSize = 23f
     private var showButton = 1f;
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.part1)
 
         val layout = findViewById<ConstraintLayout>(R.id.main)
         val textView = findViewById<TextView>(R.id.textView)
