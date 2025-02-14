@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M8</string>
-    <string name="edit_message">Default Value</string>
-    <string name="button_send">Send</string>
+    <string name="button_sumar">Add</string>
+    <string name="button_restar">Less</string>
+    <string name="button_aumentar">Increase</string>
+    <string name="button_disminuir">Decrease</string>
+    <string name="button_esconder">Hide</string>
+    <string name="button_mostrar">Show</string>
+    <string name="button_colorText">Text Color</string>
+    <string name="button_colorFondo">Background Color</string>
 </resources>

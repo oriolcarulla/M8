@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">M8</string>
-    <string name="edit_message">Valor predeterminat</string>
-    <string name="button_send">Envia</string>
+    <string name="button_sumar">Sumar</string>
+    <string name="button_restar">Restar</string>
+    <string name="button_aumentar">Aumentar</string>
+    <string name="button_disminuir">Disminuir</string>
+    <string name="button_esconder">Esconder</string>
+    <string name="button_mostrar">Mostrar</string>
+    <string name="button_colorText">Color Text</string>
+    <string name="button_colorFondo">Color Fondo</string>
 </resources>
